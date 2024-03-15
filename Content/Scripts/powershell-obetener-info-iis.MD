@@ -76,6 +76,9 @@ El siguiente escript ademas de obtener la información la exporta a un archivo t
 9. `Write-Host $filename`: Este comando imprime el nombre del archivo en la consola. Esto es útil para saber dónde se ha guardado la información recopilada.
 10. `Write-Host "Fin - Script"`: Este comando indica el final del script, lo cual es útil para el seguimiento de la ejecución del script.
 
+## Consideraciones
+
+El script solo fue probado en las siguientes versiones de sistema operativo: **Windows Server 2016** , **Windows Server 2019** y **Windows 10**
 
 ## Conclusión
 
